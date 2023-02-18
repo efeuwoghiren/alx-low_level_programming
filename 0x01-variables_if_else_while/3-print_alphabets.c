@@ -11,7 +11,7 @@ int main(void)
 {
 	int ef = 'a';
 	int EF = 'A';
-	
+
 	while (ef <= 'z')
 	{
 		putchar(ef);
