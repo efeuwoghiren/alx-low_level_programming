@@ -2,20 +2,18 @@
 #include <stdlib.h>
 
 /**
- * main - Number Entry
+ * main - entry point
  *
  * Return: Always 0 (Success)
- *
  */
 
 int main(void)
+
 {
-	int num;
+	int a;
 
-	for (num = 0; num < 10; num++)
-	printf("%d", num);
-
-	printf("\n");
-
+	for (a = 0; a < 10; a++)
+		printf("%d", a);
+	putchar('\n');
 	return (0);
-}	
+}
