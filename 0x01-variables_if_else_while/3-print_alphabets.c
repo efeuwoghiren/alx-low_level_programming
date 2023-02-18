@@ -18,8 +18,8 @@ int main(void)
 	}
 	while (EF <= 'Z')
 	{
-		putchar(ef);
-		ef++;
+		putchar(EF);
+		EF++;
 	}
 	putchar('\n');
 	return (0);
