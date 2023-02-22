@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet making the letters
- * Return: viid
+ * Return: Alway 0
  */
 void print_alphabet(void)
 {
