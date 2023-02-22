@@ -4,7 +4,7 @@
  * main -  print_alphabet making the letters
  * Return: void
  */
-void print_alphabet(void)
+void print_alphabet(void) /* function */
 {
 	char c;
 
