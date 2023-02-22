@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * main -  print_alphabet making the letters
+ * main - print alphabets
  * Return: void
  */
-void print_alphabet(void) /* print_alphabet */
+
+void print_alphabet(void)
 {
 	char c;
 
