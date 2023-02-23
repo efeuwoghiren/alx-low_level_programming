@@ -5,10 +5,10 @@
  *
  * Description: "this program aims to print 55 lines of alphabet"
  *
- * Return: void
+ * Return: 1 (success)
  */
 
-void print_alphabet_10x(void)
+void print_alphabet_x10(void)
 {
 	char c;
 	int i = 0;
