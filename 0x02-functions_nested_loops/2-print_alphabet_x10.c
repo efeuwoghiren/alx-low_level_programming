@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_alphabet_10x - makes alphabets 10x
+ * print_alphabet_x10 - makes alphabets 10x
  *
  * Description: "this program aims to print 55 lines of alphabet"
  *
