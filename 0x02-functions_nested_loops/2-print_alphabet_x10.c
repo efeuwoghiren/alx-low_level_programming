@@ -1,13 +1,14 @@
 #include "main.h"
 
 /**
- * main - print_alphabet_x10
+ * print_alphabet_10x - makes alphabets 10x
  *
- * Description: "this program aims to print five lines of alphabets"
+ * Description: "this program aims to print 55 lines of alphabet"
  *
  * Return: void
  */
-void print_alphabet_x10(void) /* Description: "main code snippet that prints */
+
+void print_alphabet_10x(void)
 {
 	char c;
 	int i = 0;
