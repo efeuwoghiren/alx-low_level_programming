@@ -12,11 +12,11 @@ int main(void)
 
 	r = _isapha('H');
 	_putchar(r + '0');
-	r = _isalpha('o');
+	r = _isapha('o');
 	_putchar(r + '0');
-	r = _isalpha(108);
+	r = _isapha(108);
 	_putchar(r + '0');
-	r = _isalpha(';');
+	r = _isapha(';');
 	_putchar(r + '0');
 	_putchar('\n');
 	return (0);
